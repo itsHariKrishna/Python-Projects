@@ -1,0 +1,4 @@
+This is read me of project 2
+-----------------------------
+- This program is made for analysing stock market price.
+- All the necessary files are being created for git.

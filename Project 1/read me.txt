@@ -1,0 +1,2 @@
+- This Project is made using Twilio API
+- This project is made for rain alert via sms

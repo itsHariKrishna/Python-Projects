@@ -1,0 +1,4 @@
+- This is a workout tracker program.
+- User can use the link to run the program.
+- Here the user can add their routine they've done during the day by the program promt.
+- The data collected from the user is then being stored in the google excel sheet.
