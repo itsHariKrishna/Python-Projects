@@ -1,0 +1,1 @@
+-This project is built for scrapping details of opensource movie website details.
