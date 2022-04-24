@@ -32,5 +32,5 @@ with open(file="Movies.txt", mode="w") as file:
         "The Top 100 Movies That You Must Watch At-least Once In Your Life.\n"
         "------------------------------------------------------------------\n")
     for i in range(len(movies_nums)):
-        file.write(f"{movies_nums[i]}){movies_names[i]}\n")
+        file.write(f"{movies_nums[i]}🎥:{movies_names[i]}\n")
 print("Writing success")
