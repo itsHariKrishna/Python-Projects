@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652098668535</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- Initialised new project - 'Good reader'&#10;- Imported recommended package such as:&#10;  - 'Time' module for letting the screen wait before hard shutting down the web-page.&#10;  - 'Selenium4' module for accessing webdriver as well as chrome service web scrapping.&#10; - Added url for required webpage&#10; - Acquired target element in webpage 'Book Category'&#10; - Formatted the category titles, and it's links to a dictionary as a Dictionary comprehensive fashion by removing unwanted dummy links through dictionary comprehension condition.&#10; - Project successful.">
+      <created>1652099941997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652099941997</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Initialised new project - 'Good reader'&#10;- Imported recommended package such as:&#10;  - 'Time' module for letting the screen wait before hard shutting down the web-page.&#10;  - 'Selenium4' module for accessing webdriver as well as chrome service web scrapping.&#10; - Added url for required webpage&#10; - Acquired target element in webpage 'Book Category'&#10; - Formatted the category titles, and it's links to a dictionary as a Dictionary comprehensive fashion by removing unwanted dummy links through dictionary comprehension condition.&#10; - Project successful." />
